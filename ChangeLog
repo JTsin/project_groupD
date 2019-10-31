@@ -1,7 +1,7 @@
 Workplan
 
-Question 1: What is the average temperature per day? 
-Question 2: What is the lowest and highest temperature per moon cycle? 
+Question 1: Average temperature on a given day, in Northern and Southern city in Sweden. Compare >> Marie-Anne & Florian
+Question 2: Coldest day of the year in Umea and Lund. Compare >> Jenny & Jakob
 Question 3: How does the temperature correlate with the moon cycle? 
 
 
@@ -9,3 +9,7 @@ Plan 3: Average percentage of temperature per day in one month, plotted against 
 1. Split the year in moon cycles
 2. Highest and lowest temperature per moon cycle
 3. Plot % of temperature compared to moon cycle %
+
+- What is the lowest and highest temperature per moon cycle? 
+- How does the temperature correlate with the moon cycle? 
+
